@@ -4,4 +4,4 @@ Hi there 👋
 - Mostly focused on MLOps, data engineering and observability.
 - In spare time I enjoy hiking, climbing and everything outdoors.
 
-[![Alexey Shokov StackOverflow profile](https://github-readme-stackoverflow.vercel.app/?userID=322079&layout=compact)](https://stackoverflow.com/users/322079)
+[![Alexey Shokov StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/322079?theme=default)](https://stackoverflow.com/users/322079)
